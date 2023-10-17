@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly.express
+streamlit
+snowflake-connector-python
+snowflake-snowpark-python
+matplotlib
